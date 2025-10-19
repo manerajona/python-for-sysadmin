@@ -1,0 +1,2 @@
+psutil~=7.1.0
+prettytable~=3.16.0
